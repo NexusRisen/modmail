@@ -8,19 +8,19 @@
       "required": true
     },
     "GUILD_ID": {
-      "description": "The id for the server you are hosting this bot for.",
+      "description": "674404486671892500",
       "required": true
     },
     "OWNERS": {
-      "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
+      "description": "99954108894552064",
       "required": true
     },
     "MONGO_URI": {
-      "description": "Mongo DB connection URI for self-hosting your data.",
+      "description": "mongodb+srv://bdkohn:Nodna@9087@cluster0-ky7xn.mongodb.net/test?retryWrites=true&w=majority",
       "required": true
     },
     "LOG_URL": {
-      "description": "The url of the log viewer app for viewing self-hosted logs.",
+      "description": "https://team-mail-uri.herokuapp.com",
       "required": true
     }
   }
