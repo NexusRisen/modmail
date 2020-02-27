@@ -3,24 +3,24 @@
   "description": "An easy to install Modmail bot for Discord - DM to contact mods!",
   "repository": "https://github.com/kyb3r/modmail",
   "env": {
-    "TOKEN": {
-      "description": "NjgyNjgzNTgxNzQyODQxODc2.XlglGg.cDTDEVxXXGZKTXLsj_VKqmkRHRg",
+    "NjgyNjgzNTgxNzQyODQxODc2.XlglGg.cDTDEVxXXGZKTXLsj_VKqmkRHRg": {
+      "description": " ",
       "required": true
     },
-    "GUILD_ID": {
-      "description": "674404486671892500",
+    "674404486671892500": {
+      "description": " ",
       "required": true
     },
-    "OWNERS": {
-      "description": "99954108894552064",
+    "99954108894552064": {
+      "description": "",
       "required": true
     },
-    "MONGO_URI": {
-      "description": "mongodb+srv://bdkohn:Nodna@9087@cluster0-ky7xn.mongodb.net/test?retryWrites=true&w=majority",
+    "mongodb+srv://bdkohn:Nodna@9087@cluster0-ky7xn.mongodb.net/test?retryWrites=true&w=majority": {
+      "description": "",
       "required": true
     },
-    "LOG_URL": {
-      "description": "https://team-mail-uri.herokuapp.com",
+    "https://team-mail-uri.herokuapp.com": {
+      "description": "",
       "required": true
     }
   }
